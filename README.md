@@ -3,8 +3,6 @@ Essa cola foi baseada em dois documentos:
 - [Karma Runner](https://karma-runner.github.io/6.3/dev/git-commit-msg.html)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
-Deixei de uma forma simplificada de acordo com o que eu vi ser mais usado no dia a dia das empresas que trabalhei & o que eu vi dar mais certo.
-
 ## Formato:
 Os commits devem ser escrito com o seguinte formato, onde o _type_ é obrigatório e pode ser consultado no próximo tópico e a descrição descreve a ação daquele commit mais detalhadamente:
 
